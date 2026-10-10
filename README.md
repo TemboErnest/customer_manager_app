@@ -1,6 +1,6 @@
 # Customer Manager
 
-[Tembo Ernest Customer_Manager](https://github.com/TemboErnest/customer_manager)
+[Tembo Ernest Customer Manager](https://github.com/TemboErnest/customer_manager_app)
 
 ICT261 Lecture 3 JavaFX classroom lab.
 
